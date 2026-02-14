@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Arabic Legal QA Dataset: Algerian Supreme Court Rulings and QA Pairs"
+authors:
+  - Zoubida Asmaa Boudjenane , Mohammed Salem
+version: 1.0.0
+date-released: 2026-02-14
+url: "https://github.com/AsmaaBoudjenane/arabic-legal-qa-dataset"
+repository-code: "https://github.com/AsmaaBoudjenane/arabic-legal-qa-dataset"
+keywords:
+  - Arabic NLP
+  - Legal AI
+  - Question Answering
+  - Retrieval-Augmented Generation
+  - Algerian Law
+license: CC-BY-4.0
+abstract: >
+  A dataset for Arabic legal question answering comprising 512 Algerian
+  Supreme Court rulings and 512 synthetic legal QA pairs. The dataset
+  supports research in Arabic legal NLP, retrieval-augmented generation,
+  and question answering systems.
