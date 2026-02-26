@@ -70,9 +70,6 @@ print(f"Loaded {len(qa_dataset)} QA pairs")
 # Example: View first ruling
 print(legal_corpus.iloc[0])
 
-# Example: Filter by question type
-general_questions = qa_dataset[qa_dataset['question_type'] == 'general']
-case_specific = qa_dataset[qa_dataset['question_type'] == 'case_specific']
 ```
 
 ### Loading with Excel
